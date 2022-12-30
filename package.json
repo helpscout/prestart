@@ -29,6 +29,6 @@
     "listr": "0.14.3"
   },
   "devDependencies": {
-    "webpack": "4.27.0"
+    "webpack": "5.75.0"
   }
 }
